@@ -1,0 +1,23 @@
+* {
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+}
+#rowBlogCard {
+     width: 100%;
+     margin: 0 !important;
+}
+
+.minWidth {
+     min-width: 20em;
+}
+.windowSized {
+     width: 100vw !important;
+     height: 90vh !important;
+}
+.fullWidth {
+     width: 100vw;
+}
+.addBoxShadow {
+     box-shadow: 0 0 10px 1px rgb(184, 184, 184);
+}
